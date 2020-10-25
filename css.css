@@ -1,0 +1,193 @@
+body{
+  
+  background: linear-gradient(45deg, rgb(46, 161, 238), rgb(0, 132, 255), rgba(37, 121, 255, 0.856), rgb(5, 29, 245) );
+  
+  background-size:100% 100%;
+border: 0;
+  
+}
+
+/*@keyframes colors{
+    0%{
+background-position: 0% 50%;
+    }
+    50%{
+background-position: 100% 50% ;
+
+    }
+
+
+
+    100%{
+background-position: 0%  50%;
+    }
+}
+*/
+
+.paragra{
+    font-size:22px;
+    font-family: Arial;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    
+}
+dl:hover{
+    color:rgb(175, 175, 175);
+}
+dl{
+    color: aliceblue;
+    justify-content: center;
+    margin-left: 2.5em;
+    
+}
+
+
+.top{
+font-family: Arial;
+}
+.img{
+    display:flex;
+    margin-right: 8.4em;
+    max-width: 50px;
+ 
+}
+.texto{
+    margin-top: 7em;
+ text-align: center;
+    color:#ffff;
+   
+    
+}
+.title{
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inp{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding:50px;
+
+  
+}
+
+.input1:hover{
+    color:rgb(128, 74, 255);
+    background-color: rgb(195, 195, 195);
+  
+ 
+ 
+}
+
+.input1{
+   
+    color:black;
+    border:0;
+    padding:2em;
+    border-radius: 50px;
+    
+    
+}
+
+.input2:hover{
+   
+    background-color: rgb(51, 51, 51);
+    transition-duration:0.3s ;
+}
+
+
+.input2{ margin-left: 3.5em;
+    background-color:rgb(29, 29, 29);
+    color: #fff;
+    border:0;
+    border-radius: 50px;
+    padding:2em;
+    
+  
+}
+
+
+.entrar:hover{
+    color: rgba(35, 149, 255, 0.692);
+    touch-action: pinch-zoom;
+    transition-duration:0.3s ;
+    background-color: rgb(212, 212, 212);
+
+}
+.entrar{
+
+    margin-left: 10em;
+    color:rgb(0, 0, 0);
+    border-radius: 50px;
+    font-size: 15px;
+    padding:10px;
+    border:0;
+    
+}
+.entrar :hover{
+    background-color: aquamarine;
+}
+
+
+.ites2{ 
+    margin-top: -24em;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+
+}
+
+.img1{
+       margin-left: 38em;
+}
+.img2{
+    margin-left: -7em;
+}
+
+.pg2{
+    justify-content: center;
+    padding-top: 8em;
+    display: flex;
+
+   
+}
+.h{
+    font-size: 25px;
+    font-family: Arial;
+    color:rgb(255, 255, 255);
+}
+   #h11{
+    color:rgb(214, 214, 214);
+font-family: Arial;
+font-size: 15px;
+   }
+    
+h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2.10em;
+}
+
+.h22{
+    font-size: 15px;
+    color:rgb(214, 214, 214);
+    font-family: Arial;
+}
+
+.title{
+    font-size: 25px;
+   font-family: Arial;
+   color:rgb(255, 255, 255);
+}
+.div3{
+    margin-top: 20em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
